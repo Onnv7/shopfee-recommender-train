@@ -1,0 +1,34 @@
+ItemID,Name,category,description,Type,Coffee,Tea,Chocolate,Matcha,Cream,Vani,Milk,Pumpkin,Cheese
+1,Ice Chocolate,Coffee,"Not as sweet as Faint Silver or Milk Coffee, Ice Chocolate has a quieter, more poetic flavor. People often have to sit for a long time to fully feel the sweet aroma, the faint scent of cocoa and the smooth bitterness sliding down the palate.",1,1,0,1,0,0,0,1,0,0
+2,Oolong Grilled Cream Cheese,Tea,"In particular, immediately conquer cheese lovers with the soft, salty cheese foam layer. It's even more delicious with pure grilled Oolong jelly, crunchy and chewy.",1,0,0,0,0,1,0,1,0,1
+3,Faint Silver,Coffee,"Faint Silver is ""Cup of white milk with a little coffee"". This drink is very suitable for those who want to experience the bitter taste of coffee while also enjoying the sweet and fatty taste of milk.",1,1,0,0,0,0,0,1,0,0
+4,Roasted Oolong Latte,Latte,This is a healthy drink that helps you stay awake smoothly and relieve stress.,1,1,0,0,0,1,0,1,0,1
+5,Crafted Coffee,Coffee,Cold-brewed coffee with a splash of milk and real sugar; served over ice.,1,1,0,0,0,0,0,1,0,1
+6,Pumpkin Coffee Shaker,Coffee,Fresh coffee shaken with pumpkin and ice; topped with a splash of milk.,1,1,0,0,0,0,0,1,1,0
+7,Hot Black Coffee,Coffee,Caribou Blend cold press coffee steamed to order.,1,1,0,0,0,0,0,0,0,0
+8,Oatmilk Crafted Coffee,Coffee,Cold-brewed coffee with a splash of oatmilk and real sugar; served over ice and topped with oatmilk cold foam.,1,1,0,1,0,1,0,1,0,0
+9,Vanilla Coffee Shaker,Coffee,Fresh coffee shaken with vanilla and ice; topped with a splash of milk.,1,1,0,0,0,1,1,1,0,0
+10,Caramel Coffee Shaker,Coffee,Fresh coffee shaken with caramel and ice; topped with a splash of milk.,1,1,0,0,0,1,0,1,0,1
+11,Milk Latte,Latte,"A delicate combination of the bitter taste of pure coffee mixed with the sweet taste of hot milk, topped with a layer of gentle cream, creating a perfect cup of coffee in terms of aroma and visual blend.",1,1,0,0,0,0,1,1,0,0
+12,Northern Lite Latte,Latte,"Extremely attractive because of the slightly bitter coffee flavor mixed with the sweet, fragrant black sugar and smooth, creamy fresh milk. The refreshing combination of coffee and brown sugar also creates a beautiful layered appearance. This is a choice worth trying to start your new day with excitement.",1,1,0,0,0,1,1,0,0,0
+13,Pumpkin Latte,Latte,"Coffee and steamed milk, combined with real pumpkin; topped with ground nutmeg.",1,1,0,0,0,0,0,0,1,0
+14,Classic Chai Latte,Latte,Spiced black tea combined with steamed milk.,1,1,0,1,0,0,1,0,0,0
+15,Matcha Vanilla Tea Latte,Latte,"Matcha powder, milk, and vanilla; served over ice.",1,1,0,0,1,0,1,1,0,0
+16,Pumpkin Caribou Frosty,Frosty,Coffee blended with ice and real pumpkin. Topped with whipped cream and ground nutmeg.,1,0,0,0,0,0,0,0,1,0
+17,Vanilla Caribou Frosty,Frosty,Coffee blended with ice and vanilla flavor; topped with whipped cream and white chocolate drizzle.,1,0,0,1,0,1,1,1,0,0
+18,Chocolate Caribou Frosty,Frosty,Coffee blended with ice and real chocolate; topped with whipped cream and chocolate drizzle.,1,0,0,1,0,0,0,1,0,0
+19,Coffee Caribou Frosty,Frosty,Coffee blended with ice.,1,0,0,1,0,1,0,1,0,0
+20,Caramel Caribou Frosty,Frosty,Coffee blended with ice and real caramel; topped with whipped cream and caramel drizzle.,1,0,0,0,0,1,0,1,0,1
+21,Frozen Cookies and Cream,Frosty,"Cookies blended with vanilla, chocolate, half & half and our signature shake mix. Topped with whipped cream and more cookies.",1,0,0,0,0,1,1,1,0,1
+22,Ho Ho Mint Mocha,Mocha,"Coffee blended with ice, chocolate and mint flavor. Topped with whipped cream and candy canes.",1,1,0,1,0,1,1,1,0,1
+23,Mocha Shaker,Mocha,Fresh mocha shaken with mint flavor and white chocolate sauce; topped with a splash of oatmilk.,1,1,0,1,1,1,0,1,0,0
+24,Spicy Mocha,Mocha,"Nitro cold press combined with milk, chocolate & flavors of chipotle and ancho chiles. Topped with espresso whipped cream.",1,1,0,1,0,1,0,1,0,0
+25,Pumpkin White Mocha,Mocha,"White chocolate chips melted into steamed milk, combined with espresso & real pumpkin. Topped with whipped cream & chocolate chips.",1,1,0,1,0,1,0,1,1,0
+26,Turtle Mocha,Mocha,"Real chocolate melted into steamed milk, combined with espresso & caramel. Topped with whipped cream, caramel, and turtle pieces.",1,1,0,1,0,1,0,1,0,1
+27,Campfire Mocha,Mocha,"Real chocolate melted into steamed milk, combined with espresso & toasted marshmallow flavor. Topped with whipped cream & more.",1,1,0,1,0,1,0,1,0,0
+28,Peach Black Tea,Tea,"Black tea and peach puree BOUsted with caffeine from coffee plus guarana and ginseng. Not recommended if sensitive to caffeine, under 18, or pregnant or nursing.",1,0,1,0,0,1,0,0,0,0
+29,Green Tea Lemonade,Tea,"Green tea and lemonade BOUsted with caffeine from coffee plus guarana and ginseng. Not recommended if sensitive to caffeine, under 18, or pregnant or nursing.",1,0,1,0,1,0,0,0,0,0
+30,Frozen Matcha Tea,Tea,"Matcha tea powder blended with ice, vanilla, half & half and our signature shake mix; served over coconut coffee jellies.",1,0,1,0,1,1,0,0,0,0
+31,Unicorn Of Love,Donut,"A delicious, raised donut as Unicorm",0,0,0,1,0,0,0,0,0,0
+32,Blue Donut,Donut,"A delicious, raised donut topped with blue butter",0,0,0,1,0,0,0,1,0,0
+33,Glaze Donut,Donut,"A delicious, raised donut topped with classic glaze",0,0,0,0,0,0,0,1,0,1

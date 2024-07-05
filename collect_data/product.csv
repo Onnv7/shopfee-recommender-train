@@ -1,0 +1,34 @@
+ItemID,Name,Type,Coffee,Tea,Chocolate,Matcha,Cream,Vani,Milk,Pumpkin,Cheese
+P0001,Ice Chocolate,1,1,0,1,0,0,0,1,0,0
+P0002,Oolong Grilled Cream Cheese,1,0,0,0,0,1,0,1,0,1
+P0003,Faint Silver,1,1,0,0,0,0,0,1,0,0
+P0004,Roasted Oolong Latte,1,1,0,0,0,1,0,1,0,1
+P0005,Crafted Coffee,1,1,0,0,0,0,0,1,0,1
+P0006,Pumpkin Coffee Shaker,1,1,0,0,0,0,0,1,1,0
+P0007,Hot Black Coffee,1,1,0,0,0,0,0,0,0,0
+P0008,Oatmilk Crafted Coffee,1,1,0,1,0,1,0,1,0,0
+P0009,Vanilla Coffee Shaker,1,1,0,0,0,1,1,1,0,0
+P0010,Caramel Coffee Shaker,1,1,0,0,0,1,0,1,0,1
+P0011,Milk Latte,1,1,0,0,0,0,1,1,0,0
+P0012,Northern Lite Latte,1,1,0,0,0,1,1,0,0,0
+P0013,Pumpkin Latte,1,1,0,0,0,0,0,0,1,0
+P0014,Classic Chai Latte,1,1,0,1,0,0,1,0,0,0
+P0015,Matcha Vanilla Tea Latte,1,1,0,0,1,0,1,1,0,0
+P0016,Pumpkin Caribou Frosty,1,0,0,0,0,0,0,0,1,0
+P0017,Vanilla Caribou Frosty,1,0,0,1,0,1,1,1,0,0
+P0018,Chocolate Caribou Frosty,1,0,0,1,0,0,0,1,0,0
+P0019,Coffee Caribou Frosty,1,0,0,1,0,1,0,1,0,0
+P0020,Caramel Caribou Frosty,1,0,0,0,0,1,0,1,0,1
+P0021,Frozen Cookies and Cream,1,0,0,0,0,1,1,1,0,1
+P0022,Ho Ho Mint Mocha,1,1,0,1,0,1,1,1,0,1
+P0023,Mocha Shaker,1,1,0,1,1,1,0,1,0,0
+P0024,Spicy Mocha,1,1,0,1,0,1,0,1,0,0
+P0025,Pumpkin White Mocha,1,1,0,1,0,1,0,1,1,0
+P0026,Turtle Mocha,1,1,0,1,0,1,0,1,0,1
+P0027,Campfire Mocha,1,1,0,1,0,1,0,1,0,0
+P0028,Peach Black Tea,1,0,1,0,0,1,0,0,0,0
+P0029,Green Tea Lemonade,1,0,1,0,1,0,0,0,0,0
+P0030,Frozen Matcha Tea,1,0,1,0,1,1,0,0,0,0
+P0031,Unicorn Of Love,0,0,0,1,0,0,0,0,0,0
+P0032,Blue Donut,0,0,0,1,0,0,0,1,0,0
+P0033,Glaze Donut,0,0,0,0,0,0,0,1,0,1
